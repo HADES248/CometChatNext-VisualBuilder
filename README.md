@@ -102,7 +102,6 @@ Troubleshooting- Ensure .env values (APP_ID, REGION, AUTH_KEY) are correct.
 - Verify at least one user exists in the CometChat Dashboard.
 - Confirm the recipient user is online.
 ### Conclusion
-Your Next.js TypeScript app now integrates CometChat UI Kit, enabling users to log in, view conversations, and send messages.Next Steps- Enable image and file sharing.
-- Store message history locally using IndexedDB.
-- Add typing indicators and read receipts.
-- Expand to voice/video calls using CometChat’s SDK
+Your Next.js TypeScript app now integrates CometChat UI Kit, enabling users to log in, view conversations, and send messages.
+
+[CometChat Pre-Assembled - Next.js Integration](https://www.cometchat.com/docs/ui-kit/react/builder-integration-nextjs)
